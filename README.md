@@ -2,5 +2,7 @@
 Es un ejercicio de IngWebBackend
 
 Jhojan Stiven Aragón Ramírez
-Yader
+
+Yader Ibraldo Quiroga Torres
+
 Kevin Tovar 
