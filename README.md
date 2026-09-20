@@ -3,7 +3,10 @@
 Ejercicio de IngWebBackend: API REST de catálogo de libros con Node.js, Express y persistencia
 en memoria.
 
-**Autores:** Jhojan Stiven Aragón Ramírez, Yader, Kevin Emmanuel Tovar Lizarazo
+**Autores:** 
+- Jhojan Stiven Aragón Ramírez
+- Yader Ibraldo Quiroga Torres
+- Kevin Emmanuel Tovar Lizarazo
 
 ## Estructura
 
